@@ -1,0 +1,14 @@
+C:\Users\Joshua\source\repos\Game Programming 1\ProgrammingExercise_01\bin\Debug\netcoreapp3.1\Game_Programming_Activities.exe
+C:\Users\Joshua\source\repos\Game Programming 1\ProgrammingExercise_01\bin\Debug\netcoreapp3.1\Game_Programming_Activities.deps.json
+C:\Users\Joshua\source\repos\Game Programming 1\ProgrammingExercise_01\bin\Debug\netcoreapp3.1\Game_Programming_Activities.runtimeconfig.json
+C:\Users\Joshua\source\repos\Game Programming 1\ProgrammingExercise_01\bin\Debug\netcoreapp3.1\Game_Programming_Activities.runtimeconfig.dev.json
+C:\Users\Joshua\source\repos\Game Programming 1\ProgrammingExercise_01\bin\Debug\netcoreapp3.1\Game_Programming_Activities.dll
+C:\Users\Joshua\source\repos\Game Programming 1\ProgrammingExercise_01\bin\Debug\netcoreapp3.1\Game_Programming_Activities.pdb
+C:\Users\Joshua\source\repos\Game Programming 1\ProgrammingExercise_01\obj\Debug\netcoreapp3.1\Game_Programming_Activities.csproj.AssemblyReference.cache
+C:\Users\Joshua\source\repos\Game Programming 1\ProgrammingExercise_01\obj\Debug\netcoreapp3.1\Game_Programming_Activities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Joshua\source\repos\Game Programming 1\ProgrammingExercise_01\obj\Debug\netcoreapp3.1\Game_Programming_Activities.AssemblyInfoInputs.cache
+C:\Users\Joshua\source\repos\Game Programming 1\ProgrammingExercise_01\obj\Debug\netcoreapp3.1\Game_Programming_Activities.AssemblyInfo.cs
+C:\Users\Joshua\source\repos\Game Programming 1\ProgrammingExercise_01\obj\Debug\netcoreapp3.1\Game_Programming_Activities.csproj.CoreCompileInputs.cache
+C:\Users\Joshua\source\repos\Game Programming 1\ProgrammingExercise_01\obj\Debug\netcoreapp3.1\Game_Programming_Activities.dll
+C:\Users\Joshua\source\repos\Game Programming 1\ProgrammingExercise_01\obj\Debug\netcoreapp3.1\Game_Programming_Activities.pdb
+C:\Users\Joshua\source\repos\Game Programming 1\ProgrammingExercise_01\obj\Debug\netcoreapp3.1\Game_Programming_Activities.genruntimeconfig.cache
